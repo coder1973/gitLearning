@@ -4,7 +4,7 @@ public class Spring {
 
     public static void main(String[] arg){
 
-        System.out.println("Merhaba herkese");
+        System.out.println("Good bye Spring");
 
     }
 }
